@@ -4,4 +4,4 @@ _Criei este repositório com a ideia de ter uma melhor organização de meus pro
 ![Nerissa/Shiori](https://i.pinimg.com/736x/52/5a/2b/525a2bc5268c6e0d81025478ed239a55.jpg) <br>
 _Faça um bom proveito._ 🦇 <br><br><br>
 **Jogos:** 
-[Jogo do Ping Pong](https://github.com/NatalyDamrat/codigos/pingpong.html)
+[Jogo do Ping Pong](https://github.com/NatalyDamrat/codigos/blob/main/pingpong.html)
